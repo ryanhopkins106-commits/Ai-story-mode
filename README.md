@@ -570,3 +570,8 @@ cp .env.example .env
 npm run devcd client
 npm install
 npm start
+npm run dev
+pwd
+dir
+
+
